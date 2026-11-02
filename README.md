@@ -3,7 +3,7 @@
 > Personal portfolio website of B. Srihith Netha, AI/Data Engineer and researcher.  
 > Built with vanilla HTML & CSS — no frameworks, no dependencies.
 
-🌐 **Live site:** [srihith07.github.io/Srihith-portfolio](srihithportfolio.vercel.app)
+🌐 **Live site:** [srihith07.github.io/Srihith-portfolio](https://srihith07.github.io/Srihith-portfolio)
 
 ---
 
